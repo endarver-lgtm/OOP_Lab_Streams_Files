@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Order.cpp
+  OrderFile.cpp
+  Product.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 496 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lab2.vcxproj -> C:\Users\Legion\source\repos\2course-OOP\x64\Release\lab2.exe
